@@ -1,0 +1,15 @@
+\contentsline {title}{PGRE: Studying for Death?}{1}{section*.2}
+\contentsline {abstract}{Abstract}{1}{section*.1}
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{section*.3}
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Variable definitions}{1}{section*.4}
+\contentsline {section}{\numberline {II}Classical mechanics (20\%)}{1}{section*.5}
+\contentsline {section}{\numberline {III}Electromagnetism (18\%)}{1}{section*.6}
+\contentsline {section}{\numberline {IV}Quantum Mechanics (12\%)}{1}{section*.7}
+\contentsline {section}{\numberline {V}Thermodynamics and Statistical Mechanics (10\%)}{1}{section*.8}
+\contentsline {section}{\numberline {VI}Atomic Physics (10\%)}{1}{section*.9}
+\contentsline {section}{\numberline {VII}Optics and Wave Phenomena (9\%)}{1}{section*.10}
+\contentsline {section}{\numberline {VIII}Specialized Topics (9\%)}{1}{section*.11}
+\contentsline {section}{\numberline {IX}Special Relativity (6\%)}{1}{section*.12}
+\contentsline {section}{\numberline {X}Laboratory Methods (6\%)}{2}{section*.13}
