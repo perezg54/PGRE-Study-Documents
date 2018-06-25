@@ -13,3 +13,4 @@
 \contentsline {section}{\numberline {VIII}Specialized Topics (9\%)}{1}{section*.11}
 \contentsline {section}{\numberline {IX}Special Relativity (6\%)}{1}{section*.12}
 \contentsline {section}{\numberline {X}Laboratory Methods (6\%)}{2}{section*.13}
+\contentsline {subsection}{\numberline {A}Error Analysis}{2}{section*.14}
