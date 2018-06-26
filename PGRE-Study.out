@@ -1,6 +1,7 @@
 \BOOKMARK [0][-]{section*.2}{PGRE: Studying for Death?}{}% 2
 \BOOKMARK [1][-]{section*.1}{Abstract}{section*.2}% 1
 \BOOKMARK [1][-]{section*.3}{Contents}{section*.2}% 3
+<<<<<<< HEAD
 \BOOKMARK [1][-]{section*.4}{Variable definitions}{section*.2}% 4
 \BOOKMARK [1][-]{section*.5}{Classical mechanics \(20\045\)}{section*.2}% 5
 \BOOKMARK [1][-]{section*.6}{Electromagnetism \(18\045\)}{section*.2}% 6
@@ -11,3 +12,16 @@
 \BOOKMARK [1][-]{section*.11}{Specialized Topics \(9\045\)}{section*.2}% 11
 \BOOKMARK [1][-]{section*.12}{Special Relativity \(6\045\)}{section*.2}% 12
 \BOOKMARK [1][-]{section*.13}{Laboratory Methods \(6\045\)}{section*.2}% 13
+=======
+\BOOKMARK [1][-]{section*.4}{Variable\040definitions}{section*.2}% 4
+\BOOKMARK [1][-]{section*.5}{Classical\040mechanics\040\(20\045\)}{section*.2}% 5
+\BOOKMARK [1][-]{section*.6}{Electromagnetism\040\(18\045\)}{section*.2}% 6
+\BOOKMARK [1][-]{section*.7}{Quantum\040Mechanics\040\(12\045\)}{section*.2}% 7
+\BOOKMARK [1][-]{section*.8}{Thermodynamics\040and\040Statistical\040Mechanics\040\(10\045\)}{section*.2}% 8
+\BOOKMARK [1][-]{section*.9}{Atomic\040Physics\040\(10\045\)}{section*.2}% 9
+\BOOKMARK [1][-]{section*.10}{Optics\040and\040Wave\040Phenomena\040\(9\045\)}{section*.2}% 10
+\BOOKMARK [1][-]{section*.11}{Specialized\040Topics\040\(9\045\)}{section*.2}% 11
+\BOOKMARK [1][-]{section*.12}{Special\040Relativity\040\(6\045\)}{section*.2}% 12
+\BOOKMARK [1][-]{section*.13}{Laboratory\040Methods\040\(6\045\)}{section*.2}% 13
+\BOOKMARK [2][-]{section*.14}{Error\040Analysis}{section*.13}% 14
+>>>>>>> ee1a021652ba9464902d70dde265889d2998b217
