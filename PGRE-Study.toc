@@ -17,3 +17,4 @@
 \contentsline {section}{\numberline {IX}Special Relativity (6\%)}{2}{section*.15}
 \contentsline {section}{\numberline {X}Laboratory Methods (6\%)}{2}{section*.16}
 \contentsline {subsection}{\numberline {A}Error Analysis}{2}{section*.17}
+\contentsline {subsection}{\numberline {B}Instrumentation}{3}{section*.18}
