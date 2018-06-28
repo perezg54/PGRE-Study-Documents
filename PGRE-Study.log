@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  28 JUN 2018 12:02
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  28 JUN 2018 13:53
 entering extended mode
 **./PGRE-Study.tex
 (PGRE-Study.tex
@@ -843,31 +843,32 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write6
 \openout6 = `PGRE-Study.toc'.
 
+File: figures/sally.jpg Graphic file (type bmp)
+<figures/sally.jpg>
 
-Underfull \hbox (badness 1142) in paragraph at lines 104--105
+Underfull \hbox (badness 1142) in paragraph at lines 111--112
 \TU/lmr/m/n/10 netic fields in free space, Lorentz force, induction,
  []
 
-
-Underfull \hbox (badness 2726) in paragraph at lines 153--154
+[1]
+Underfull \hbox (badness 2726) in paragraph at lines 160--161
 []\TU/lmr/m/n/10 Such as fundamental concepts, solutions of the
  []
 
-[1]
 No file PGRE-Study.bbl.
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 207.
  (PGRE-Study.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 200.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 200.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 207.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
- 27839 strings out of 427836
- 565851 string characters out of 3148511
+ 27857 strings out of 427836
+ 566012 string characters out of 3148511
  733375 words of memory out of 3000000
- 31464 multiletter control sequences out of 15000+200000
+ 31473 multiletter control sequences out of 15000+200000
  13484 words of font info for 60 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,5n,56p,521b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,6n,56p,521b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on PGRE-Study.pdf (2 pages).
