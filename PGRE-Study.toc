@@ -6,11 +6,13 @@
 \contentsline {section}{\numberline {I}Variable definitions}{1}{section*.4}
 \contentsline {section}{\numberline {II}Classical mechanics (20\%)}{1}{section*.5}
 \contentsline {section}{\numberline {III}Electromagnetism (18\%)}{1}{section*.6}
-\contentsline {section}{\numberline {IV}Quantum Mechanics (12\%)}{1}{section*.7}
-\contentsline {section}{\numberline {V}Thermodynamics and Statistical Mechanics (10\%)}{1}{section*.8}
-\contentsline {section}{\numberline {VI}Atomic Physics (10\%)}{1}{section*.9}
-\contentsline {section}{\numberline {VII}Optics and Wave Phenomena (9\%)}{1}{section*.10}
-\contentsline {section}{\numberline {VIII}Specialized Topics (9\%)}{1}{section*.11}
-\contentsline {section}{\numberline {IX}Special Relativity (6\%)}{1}{section*.12}
-\contentsline {section}{\numberline {X}Laboratory Methods (6\%)}{2}{section*.13}
-\contentsline {subsection}{\numberline {A}Error Analysis}{2}{section*.14}
+\contentsline {subsection}{\numberline {A}Maxwell's Equations}{1}{section*.7}
+\contentsline {subsection}{\numberline {B}Magnetic and Electric Fields in Matter}{1}{section*.8}
+\contentsline {section}{\numberline {IV}Quantum Mechanics (12\%)}{2}{section*.9}
+\contentsline {section}{\numberline {V}Thermodynamics and Statistical Mechanics (10\%)}{2}{section*.10}
+\contentsline {section}{\numberline {VI}Atomic Physics (10\%)}{2}{section*.11}
+\contentsline {section}{\numberline {VII}Optics and Wave Phenomena (9\%)}{2}{section*.12}
+\contentsline {section}{\numberline {VIII}Specialized Topics (9\%)}{2}{section*.13}
+\contentsline {section}{\numberline {IX}Special Relativity (6\%)}{2}{section*.14}
+\contentsline {section}{\numberline {X}Laboratory Methods (6\%)}{2}{section*.15}
+\contentsline {subsection}{\numberline {A}Error Analysis}{2}{section*.16}

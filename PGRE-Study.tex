@@ -103,6 +103,51 @@ Such as kinematics, Newton's laws, work and energy, oscillatory motion, rotation
 % ETS description of the subject in brief
 Such as electrostatics, currents and DC circuits, magnetic fields in free space, Lorentz force, induction, Maxwell's equations and their applications, electromagnetic waves, AC circuits, magnetic and electric fields in matter.
 
+\subsection{Maxwell's Equations}
+
+\begin{itemize}
+	\item \textbf{Speed of light:} The definition (in vacuum) can be found by taking the curl of Maxwell's equations and looking for something in the form of the wave equation. It is
+	\begin{equation}
+	    c=\frac{1}{\sqrt{\mu_0\epsilon_0}}.
+	\end{equation}
+	For light in matter, replace $\mu_0$ and $\epsilon_0$ with $\mu$ and $\epsilon$, respectively.
+\end{itemize}
+
+\subsection{Magnetic and Electric Fields in Matter}
+
+\begin{itemize}
+	\item \textbf{Permittivity:} In matter, the permittivity is given by
+	\begin{equation}
+		\epsilon = \kappa_E \epsilon_0,
+	\end{equation}
+	where $\epsilon$ is the absolute permittivity, $\kappa_E$ is the dielectric constant, and $\epsilon_0$ is vacuum permittivity. 
+	
+	If the applied field is not constant, then $\epsilon$ becomes frequency-dependent because the material's polarization does not change instantly. In this case
+	\begin{equation}
+		\epsilon (\omega) = \kappa_E\epsilon_0 - i \frac{\sigma}{\omega},
+	\end{equation}
+	where $\sigma$ is the conductivity of the material and $\omega$ is the frequency of the applied field.
+	
+	Note that electric susceptibility is related to the dielectric constant with the simple relation
+	\begin{equation}
+		\chi_E = \kappa_E - 1.
+	\end{equation} 
+	
+	\item \textbf{Permeability:} The permeability is given by
+	\begin{equation}
+		\mu = \kappa_B \mu_0,
+	\end{equation}
+	where $\mu$ is the absolute permeability, $\kappa_B$ is a constant, and $\mu_0$ is vacuum permeability. $\kappa_B$ is related to the magnetic susceptibility by
+	\begin{equation}
+		\chi_B = \kappa_B - 1.
+	\end{equation}
+	
+	Similarly to electric fields in matter, $\mu$ does have a frequency dependence. However, this dependence is negligible in non-magnetic materials.
+	
+	Fun fact: a material with $\mu < \mu_0$ is \textbf{diamagnetic}, and a material with $\mu > \mu_0$ is \textbf{paramagnetic}.
+\end{itemize}
+
+
 \section{Quantum Mechanics (12\%)}
 % ETS description of the subject in brief
 Such as fundamental concepts, solutions of the Schrödinger equation (including square wells, harmonic oscillators, and hydrogenic atoms), spin, angular momentum, wave function symmetry, elementary perturbation theory.
