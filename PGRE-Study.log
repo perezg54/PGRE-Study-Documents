@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  28 JUN 2018 13:59
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  28 JUN 2018 16:56
 entering extended mode
 **./PGRE-Study.tex
 (PGRE-Study.tex
@@ -856,20 +856,24 @@ Underfull \hbox (badness 2726) in paragraph at lines 160--161
  []
 
 [2]
+Underfull \hbox (badness 1442) in paragraph at lines 219--220
+ \TU/lmr/m/n/10 state lasers that use Nd:YAG as a gain
+ []
+
 No file PGRE-Study.bbl.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (PGRE-Study.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 223.
  ) 
 Here is how much of TeX's memory you used:
- 27856 strings out of 427836
- 566002 string characters out of 3148511
- 733375 words of memory out of 3000000
- 31472 multiletter control sequences out of 15000+200000
- 13484 words of font info for 60 fonts, out of 3000000 for 9000
+ 27859 strings out of 427836
+ 566088 string characters out of 3148511
+ 738375 words of memory out of 3000000
+ 31473 multiletter control sequences out of 15000+200000
+ 13492 words of font info for 61 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 62i,6n,56p,521b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,6n,56p,530b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on PGRE-Study.pdf (3 pages).
