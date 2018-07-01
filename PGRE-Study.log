@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.28)  26 JUN 2018 08:57
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  29 JUN 2018 10:43
+>>>>>>> 06c0f1ca998ed5b831e8a2ac286255304c5d598a
 entering extended mode
 **./PGRE-Study.tex
 (PGRE-Study.tex
@@ -756,14 +760,21 @@ LaTeX Font Info:    Try loading font information for U+msa on input line 87.
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 87.
+<<<<<<< HEAD
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+=======
+("C:\Users\schla\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+>>>>>>> 06c0f1ca998ed5b831e8a2ac286255304c5d598a
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (PGRE-Study.toc)
 \tf@toc=\write6
 \openout6 = `PGRE-Study.toc'.
 
+File: figures/sally.jpg Graphic file (type bmp)
+<figures/sally.jpg>
 
+<<<<<<< HEAD
 Underfull \hbox (badness 1142) in paragraph at lines 105--107
 \OT1/cmr/m/n/10 netic fields in free space, Lorentz force, in-duc-tion,
  []
@@ -832,3 +843,38 @@ PDF statistics:
  16 named destinations out of 1000 (max. 500000)
  125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+=======
+Underfull \hbox (badness 1142) in paragraph at lines 111--112
+\TU/lmr/m/n/10 netic fields in free space, Lorentz force, induction,
+ []
+
+[1]
+Underfull \hbox (badness 2726) in paragraph at lines 160--161
+[]\TU/lmr/m/n/10 Such as fundamental concepts, solutions of the
+ []
+
+File: figures/telescope.jpg Graphic file (type bmp)
+<figures/telescope.jpg>
+[2]
+Underfull \hbox (badness 1442) in paragraph at lines 241--242
+ \TU/lmr/m/n/10 state lasers that use Nd:YAG as a gain
+ []
+
+No file PGRE-Study.bbl.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
+ (PGRE-Study.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 251.
+ ) 
+Here is how much of TeX's memory you used:
+ 27864 strings out of 427836
+ 566194 string characters out of 3148511
+ 733375 words of memory out of 3000000
+ 31477 multiletter control sequences out of 15000+200000
+ 13492 words of font info for 61 fonts, out of 3000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 62i,6n,56p,530b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on PGRE-Study.pdf (3 pages).
+>>>>>>> 06c0f1ca998ed5b831e8a2ac286255304c5d598a
