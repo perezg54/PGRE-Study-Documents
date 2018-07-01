@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.28)  25 JUN 2018 08:54
-=======
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.5.4)  25 JUN 2018 16:05
->>>>>>> ee1a021652ba9464902d70dde265889d2998b217
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.28)  26 JUN 2018 08:57
 entering extended mode
 **./PGRE-Study.tex
 (PGRE-Study.tex
@@ -763,75 +759,76 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 87.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (PGRE-Study.toc
-Overfull \hbox (9.78pt too wide) detected at line 16
- \TU/lmr/m/n/10 A.
- []
-
-)
+) (PGRE-Study.toc)
 \tf@toc=\write6
 \openout6 = `PGRE-Study.toc'.
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 105--106
+Underfull \hbox (badness 1142) in paragraph at lines 105--107
 \OT1/cmr/m/n/10 netic fields in free space, Lorentz force, in-duc-tion,
  []
+
+! Undefined control sequence.
+<argument> ..._0\vec {E}+\vec {P}\right )=\nablda 
+                                                  \cdot \vec {D}&=\rho _f. 
+l.123 \end{align*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ..._0\vec {E}+\vec {P}\right )=\nablda 
+                                                  \cdot \vec {D}&=\rho _f. 
+l.123 \end{align*}
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 
-Underfull \hbox (badness 2717) in paragraph at lines 109--110
+Underfull \hbox (badness 2717) in paragraph at lines 135--137
 []\OT1/cmr/m/n/10 Such as fun-da-men-tal con-cepts, so-lu-tions of the
  []
 
 [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 No file PGRE-Study.bbl.
 [2]
-<<<<<<< HEAD
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 135.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
  (PGRE-Study.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 135.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 135.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
 Package rerunfilecheck Info: File `PGRE-Study.out' has not changed.
-(rerunfilecheck)             Checksum: 2F7A51DC436E0FEB7EC9B152248270AA;950.
+(rerunfilecheck)             Checksum: B8C3A7D818D7F61714003B567B6F2139;1026.
  ) 
 Here is how much of TeX's memory you used:
- 24907 strings out of 493323
- 533340 string characters out of 3139069
- 701165 words of memory out of 3000000
- 28075 multiletter control sequences out of 15000+200000
+ 24914 strings out of 493323
+ 533436 string characters out of 3139069
+ 703169 words of memory out of 3000000
+ 28081 multiletter control sequences out of 15000+200000
  13994 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,5n,56p,433b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-
-Output written on PGRE-Study.pdf (2 pages, 119800 bytes).
+ 62i,10n,56p,433b,393s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on PGRE-Study.pdf (2 pages, 158046 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 125 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-=======
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
- (PGRE-Study.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 142.
- ) 
-Here is how much of TeX's memory you used:
- 27833 strings out of 427836
- 565730 string characters out of 3148511
- 730375 words of memory out of 3000000
- 31460 multiletter control sequences out of 15000+200000
- 13476 words of font info for 59 fonts, out of 3000000 for 9000
- 1328 hyphenation exceptions out of 8191
- 62i,5n,56p,443b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
-
-Output written on PGRE-Study.pdf (2 pages).
->>>>>>> ee1a021652ba9464902d70dde265889d2998b217
